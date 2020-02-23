@@ -3,6 +3,8 @@ empty_array = []
 counter = 0
 
 while my_collect.collect do |lang|
+  my_collect.split(" ")
+  yield my_collect
   counter += 1
 
 
