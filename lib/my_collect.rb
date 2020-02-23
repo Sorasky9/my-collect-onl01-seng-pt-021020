@@ -3,7 +3,7 @@ empty_array = []
 counter = 0
 
 while counter < empty_array.length  do
-yield counter
+yield my_collect
 counter += 1
 
 end
