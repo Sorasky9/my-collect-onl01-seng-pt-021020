@@ -7,6 +7,7 @@ while my_collect(array).collect do
   yield my_collect
   counter += 1
 
+break
 
 end
 
