@@ -8,5 +8,5 @@ counter += 1
 
 end
 
-array
+empty_array
 end
