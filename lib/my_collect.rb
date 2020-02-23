@@ -7,5 +7,6 @@ while counter < empty_array.length  do
 counter += 1
 
 end
-counter
+
+
 end
