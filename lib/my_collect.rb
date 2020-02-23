@@ -3,7 +3,7 @@ empty_array = []
 counter = 0
 
 while counter < array.length
-empty_array << yield array[counter]
+empty_array << yieldarray[counter]
 counter += 1
 
 end
