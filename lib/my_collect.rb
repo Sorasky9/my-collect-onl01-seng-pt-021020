@@ -8,5 +8,5 @@ counter += 1
 
 end
 
-array.upcase
+array
 end
