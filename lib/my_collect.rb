@@ -3,7 +3,7 @@ empty_array = []
 counter = 0
 
 while counter < array.length  do
-yield array.first
+yield array[counter].first
 counter += 1
 
 end
