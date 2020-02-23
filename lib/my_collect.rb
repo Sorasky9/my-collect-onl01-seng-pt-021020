@@ -9,9 +9,3 @@ counter += 1
 end
 counter
 end
-
-
-def my_collect(languages)
-languages.upcase
-
-end
