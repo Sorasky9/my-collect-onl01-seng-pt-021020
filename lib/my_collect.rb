@@ -1,4 +1,4 @@
-def my_collect(language)
+def my_collect(languages)
 empty_array = []
 counter = 0
 
