@@ -2,7 +2,7 @@ def my_collect(array)
 empty_array = []
 counter = 0
 
-while my_collect(array).length do
+while counter < my_collect(array).length  do
 
   counter += 1
 
