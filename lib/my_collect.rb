@@ -10,4 +10,3 @@ end
 
 array
 end
-end
